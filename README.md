@@ -172,7 +172,7 @@ NVIDIA DeepStream SDK 8.0 / 7.1 / 7.0 / 6.4 / 6.3 / 6.2 / 6.1.1 / 6.1 / 6.0.1 / 
 
 #### DeepStream 7.1 on Jetson platform
 
-* [JetPack 6.2.1](https://developer.nvidia.com/embedded/jetpack-sdk-621) / [JetPack 6.2](https://developer.nvidia.com/embedded/jetpack-sdk-62cc) / c[JetPack 6.1](https://developer.nvidia.com/embedded/jetpack-sdk-61)
+* [JetPack 6.2.1](https://developer.nvidia.com/embedded/jetpack-sdk-621) / [JetPack 6.2](https://developer.nvidia.com/embedded/jetpack-sdk-62) / [JetPack 6.1](https://developer.nvidia.com/embedded/jetpack-sdk-61)
 * [NVIDIA DeepStream SDK 7.1](https://catalog.ngc.nvidia.com/orgs/nvidia/resources/deepstream/files?version=7.1)
 * [DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo)
 
