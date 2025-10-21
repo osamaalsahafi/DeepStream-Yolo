@@ -18,7 +18,7 @@ NVIDIA DeepStream SDK 8.0 / 7.1 / 7.0 / 6.4 / 6.3 / 6.2 / 6.1.1 / 6.1 / 6.0.1 / 
 * Support for non square models
 * Models benchmarks
 * Support for Darknet models (YOLOv4, etc) using cfg and weights conversion with GPU post-processing
-* Support for D-FINE, RT-DETR, CO-DETR (MMDetection), YOLO-NAS, PPYOLOE+, PPYOLOE, DAMO-YOLO, Gold-YOLO, RTMDet (MMYOLO), YOLOX, YOLOR, YOLO11, YOLOv10, YOLOv9, YOLOv8, YOLOv7, YOLOv6, YOLOv5u and YOLOv5 using ONNX conversion with GPU post-processing
+* Support for D-FINE, RT-DETR, CO-DETR (MMDetection), YOLO-NAS, PPYOLOE+, PPYOLOE, DAMO-YOLO, Gold-YOLO, RTMDet (MMYOLO), YOLOX, YOLOR, YOLO12, YOLO11, YOLOv10, YOLOv9, YOLOv8, YOLOv7, YOLOv6, YOLOv5u and YOLOv5 using ONNX conversion with GPU post-processing
 * GPU bbox parser
 * Custom ONNX model parser
 * Dynamic batch-size
@@ -45,6 +45,7 @@ NVIDIA DeepStream SDK 8.0 / 7.1 / 7.0 / 6.4 / 6.3 / 6.2 / 6.1.1 / 6.1 / 6.0.1 / 
 * [YOLOv9 usage](docs/YOLOv9.md)
 * [YOLOv10 usage](docs/YOLOv10.md)
 * [YOLO11 usage](docs/YOLO11.md)
+* [YOLO12 usage](docs/YOLO12.md)
 * [YOLOR usage](docs/YOLOR.md)
 * [YOLOX usage](docs/YOLOX.md)
 * [RTMDet (MMYOLO) usage](docs/RTMDet.md)
